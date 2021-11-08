@@ -1,0 +1,8 @@
+rootProject.name = "ChangeJarTest"
+include ':app'
+include ':app:core'
+include ':app:contact'
+include ':app:vmcore'
+include ':app:contactlist'
+include ':app:utils'
+include ':app:contactdetail'
